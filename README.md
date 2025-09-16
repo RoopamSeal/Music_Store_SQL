@@ -1,0 +1,1 @@
+In this mini-project, a database was explored using SQL queries. The database had several tables which were connected by several primary keys. Also the code for the creation of database is provided for reference. This is easy to understand for beginners. 
